@@ -18,4 +18,16 @@ While a significant national trend exists, 73% of the variance in female graduat
 ### Tools Used
 - MOSPI e-Sankhyiki Portal (Data Extraction)
 - MS Excel (Bivariate Regression & Visualisation)
+  
+## update: paired t test using python to validate my results
+to validate my findings on gender disparity , I conducted a **paired sample t-test** using **scipy.stats** library in python
 
+-**null hypothesis:** There is no signigficant difference between male and female graduate participation in workforce
+
+-**alternative hypothesis:** There is a significant difference between male and female graduate participation in workforce
+## results
+- **t-statistic:** 14.98676
+- **p-value:** 8.4536e-17
+## conclusion
+the p-value is less than 0.05(<0.05) leading to the rejection of null hypothesis so we conclude that there is a significant difference between male and female graduate participation in workforce.
+  

@@ -16,7 +16,7 @@ This project investigates the relationship between Male and Female Graduate Labo
 - **P-Value:** 0.0011 (Highly Statistically Significant)
 - **Standard Error:** 1.63
 
-  ### Conclusion
+ ### Conclusion
   While a significant national trend exists, 73% of the variance in female graduate participation is driven by state-specific factors      rather than general male employment trends, highlighting regional socio-economic disparities.
 
 ## paired t test using python to validate my results

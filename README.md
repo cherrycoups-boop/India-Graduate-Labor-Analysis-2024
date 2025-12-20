@@ -27,7 +27,7 @@ to validate my findings on gender disparity , I conducted a **paired sample t-te
 -**alternative hypothesis:** There is a significant difference between male and female graduate participation in workforce
  ## results
  - **t-statistic:** 14.98676
- - **p-value:** 8.4536e-17
+ - **p-value:** 8.4536e-17(<0.001)
  ## conclusion
  the p-value is less than 0.05(<0.05) leading to the rejection of null hypothesis so we conclude that there is a significant difference   between male and female graduate participation in workforce.
 
@@ -40,6 +40,10 @@ to further validate my findings on gender disparity in workforce, I conducted **
  -  **Q-Q plot:** ![Q-Q Plot](Q-Q_plot.png)
    this deviation from the normal line and shapiro wilk test's p-value(<0.001) indicates that the data is not normally distributed justifying the need for non-parametric test like          wilcoxon rank test
  ## conclusion
- since p-value of wilcoxon rank test is also <0.001, we can conclude that we may reject the null hypothesis i.e there is a significant disparity between male anf female graduate in       India's workforce further validating my previous findings.
- 
+ since p-value of wilcoxon rank test is also <0.001, we can conclude that we may reject the null hypothesis i.e there is a significant disparity between male and female graduate in       India's workforce further validating my previous findings.
+ ## DATA source and references
+ - **primary data source:** Periodic labour force survey(2023-24)
+ - **source:** ministry of statistics and programme implementation(MOSPI), government of india
+ - **extraction portal:** e-Sankhyiki Portal
+ - **reference period:** July 2023 – June 2024 (Principal Status + Subsidiary Status)
    

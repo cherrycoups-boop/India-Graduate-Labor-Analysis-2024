@@ -36,7 +36,10 @@ to further validate my findings on gender disparity in workforce, I conducted **
  ## results
  - **t-statistic:** 15.0
  - **wilcoxon rank test:** 666
- - **p-value:** <0.001
- -  **Q-Q plot:** (Q-Q_plot.png)
- -  
- -  
+ - **p-value(for both t-test & wilcoxon rank test):** <0.001
+ -  **Q-Q plot:** ![Q-Q Plot](Q-Q_plot.png)
+   this deviation from the normal line and shapiro wilk test's p-value(<0.001) indicates that the data is not normally distributed justifying the need for non-parametric test like          wilcoxon rank test
+ ## conclusion
+ since p-value of wilcoxon rank test is also <0.001, we can conclude that we may reject the null hypothesis i.e there is a significant disparity between male anf female graduate in       India's workforce further validating my previous findings.
+ 
+   

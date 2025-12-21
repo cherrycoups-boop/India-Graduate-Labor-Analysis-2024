@@ -47,4 +47,11 @@ to further validate my findings on gender disparity in workforce, I conducted **
  - **source:** ministry of statistics and programme implementation(MOSPI), government of india
  - **extraction portal:** e-Sankhyiki Portal
  - **reference period:** July 2023 – June 2024 (Principal Status + Subsidiary Status)
+### 📂 Data Appendix
+<details>
+  <summary><b>Click to expand: State-wise Filtered Data Table</b></summary>
+  
+  ![table](table_of_state_male_and_female_graduates_in_workforce.png)
+  
+</details>
    

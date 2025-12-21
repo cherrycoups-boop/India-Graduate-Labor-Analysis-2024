@@ -23,9 +23,9 @@ This project investigates the relationship between Male and Female Graduate Labo
 ## paired t test using python to validate my results
 to validate my findings on gender disparity , I conducted a **paired sample t-test** using **scipy.stats** library in python
 
--**null hypothesis:** There is no signigficant difference between male and female graduate participation in workforce
+-**$H_0$:** There is no signigficant difference between male and female graduate participation in workforce
 
--**alternative hypothesis:** There is a significant difference between male and female graduate participation in workforce
+-**$H_1$:** There is a significant difference between male and female graduate participation in workforce
  ## results
  - **t-statistic:** 14.98676
  - **p-value:** 8.4536e-17(<0.001)

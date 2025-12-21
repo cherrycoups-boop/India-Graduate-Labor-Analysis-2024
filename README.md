@@ -9,14 +9,14 @@
 
 ### Project Overview
 This project investigates the relationship between Male and Female Graduate Labour Force Participation Rates (LFPR) across 36 Indian States and UTs using the latest MOSPI PLFS data.
- -**table:** ![table](table_of_state_male_and_female_graduates_in_workforce)
+ 
 ### Key Statistical Results(bivariate regression & visualisation)
 - **Correlation ($r$):** 0.52 (Moderate Positive)
 - **R-Squared ($R^2$):** 0.2699 
 - **P-Value:** 0.0011 (Highly Statistically Significant)
 - **Standard Error:** 1.63
   
--**regression line:** ![regression line](regression_line) 
+ -**regression line:** ![regression line](regression_line.png) 
  ### Conclusion
   While a significant national trend exists, 73% of the variance in female graduate participation is driven by state-specific factors      rather than general male employment trends, highlighting regional socio-economic disparities.
 
